@@ -1,0 +1,9 @@
+path: D:\2021ds\ls3
+train: D:\2021ds\ls3\images\train
+val: D:\2021ds\ls3\images\val
+test:
+
+names: ['landslide']
+
+
+

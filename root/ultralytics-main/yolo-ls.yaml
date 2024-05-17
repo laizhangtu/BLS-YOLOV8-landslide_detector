@@ -1,0 +1,9 @@
+path: /root/datasets/MSLD
+train: /root/datasets/MSLD/images/train
+val: /root/datasets/MSLD/images/val
+test: /root//datasets/MSLD/images/test
+
+names: ['landslide']
+
+
+
