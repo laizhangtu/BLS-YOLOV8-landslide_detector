@@ -3,11 +3,11 @@
     本项目是针对于山体滑坡检测所开发的
     基于ultralytics公司开发的yolov8，结合gold-yolo网络，EMA网络，Wiou损失函数等，着手于山体滑坡的检测并开发了webgui界面。
 
-本项目各结构来源
-    [ultralytics](https://github.com/ultralytics/ultralytics)
-    [Efficient Multi-Scale Attention Module with Cross-Spatial Learning](https://arxiv.org/abs/2305.13563v1)
-    [Wise-IoU: Bounding Box Regression Loss with Dynamic Focusing Mechanism](https://arxiv.org/abs/2301.10051)
-    [Gold-yolo](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)
+## 本项目各结构来源
+[ultralytics](https://github.com/ultralytics/ultralytics)
+[Efficient Multi-Scale Attention Module with Cross-Spatial Learning](https://arxiv.org/abs/2305.13563v1)
+[Wise-IoU: Bounding Box Regression Loss with Dynamic Focusing Mechanism](https://arxiv.org/abs/2301.10051)
+[Gold-yolo](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)
 
 # 目录结构          
     ├── MSLD_datasets                   // 测试数据
@@ -29,14 +29,17 @@
     等待结果
 
 # 模型训练
-    本项目可运行在
+
+## 本项目可运行在
         系统： Ubuntu 18.04 
         GPU： RTX 4090(24GB)
         GPU驱动： 535.129.03
         CUDA版本： ≤ 12.2
         CPU： 16 vCPU Intel(R) Xeon(R) Platinum 8352V CPU @ 2.10GHz
         内存： 120GB
- 
+## 源码地址
+[BLS-YOLOV8-landslide_detector](https://github.com/laizhangtu/BLS-YOLOV8-landslide_detector)
+
 # Q&A
 
     Q: 网页未弹出
