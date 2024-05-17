@@ -38,7 +38,6 @@
         内存： 120GB
 数据集来源 
     [武汉大学毕节市滑坡数据集](http://gpcv.whu.edu.cn/data/Bijie_pages.html)
-    
     [多尺度滑坡数据集](https://github.com/YhQIAO/LandSlide_Detection_Faster-RCNN)
     
  
