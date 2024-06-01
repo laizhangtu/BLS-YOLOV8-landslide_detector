@@ -11,12 +11,12 @@
 
 # 目录结构          
     ├── MSLD_datasets                   // 测试数据
-    |   └─ test
+    │   └─ test
     ├── Sourcecode                      // 源代码
-    |   ├── BLS-YOLO.onnx               // onnx模型
-    |   ├── index.html                  // webgui
-    |   ├── landslide_detector.py       
-    |   └── requirements.txt
+    │   ├── BLS-YOLO.onnx               // onnx模型
+    │   ├── index.html                  // webgui
+    │   ├── landslide_detector.py       
+    │   └── requirements.txt
     ├── BLS-YOLO.onnx                   // 依赖文件
     ├── index.html                      
     └── landslide_detector.exe          // 执行程序
